@@ -1,6 +1,5 @@
-# Quora-Question-Pair-Similarity-Problem
-Machine learning-based NLP project for classifying Quora question pairs as duplicate or non-duplicate using textual and similarity features.
 # Quora Question Pair Similarity Using Machine Learning
+Machine learning-based NLP project for classifying Quora question pairs as duplicate or non-duplicate using textual and similarity features.
 
 ## Project Overview
 
